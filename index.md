@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/44366610/152694041-47083d1d-cbfc-4927-b575-d4a3834f48f5.jpg" width="500">
+<img src="https://user-images.githubusercontent.com/44366610/152694796-6bf6b256-a87d-4acc-8fcc-b0fd4f054136.jpg" width="500">
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/CharlotteJackson/CharlotteJackson.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
