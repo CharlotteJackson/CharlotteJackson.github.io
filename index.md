@@ -1,5 +1,4 @@
-![Char Headshot-2261v2 small copy](https://user-images.githubusercontent.com/44366610/152694041-47083d1d-cbfc-4927-b575-d4a3834f48f5.jpg =1000x667)
-
+<img src="https://user-images.githubusercontent.com/44366610/152694041-47083d1d-cbfc-4927-b575-d4a3834f48f5.jpg" width="1000" height="667">
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/CharlotteJackson/CharlotteJackson.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
