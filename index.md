@@ -1,6 +1,13 @@
 <img src="https://user-images.githubusercontent.com/44366610/152694796-6bf6b256-a87d-4acc-8fcc-b0fd4f054136.jpg" width="500">
 
-## Welcome to GitHub Pages
+## Media
+
+## Publications
+[Observed disparities between police reports and 911 calls](https://www.dcpolicycenter.org/publications/crash-report-disparities/) (DC Policy Center)
+[DC’s most hated intersections, according to 311 data](https://ggwash.org/view/80785/dcs-top-ten-most-hated-intersections-according-to-311-data) (Greater Greater Washington)
+[Who drives cars, who gets hit by cars, and why](https://ggwash.org/view/80438/who-drives-cars-who-gets-hit-by-cars-and-why) (Greater Greater Washington)
+
+## Awards and Honors
 
 You can use the [editor on GitHub](https://github.com/CharlotteJackson/CharlotteJackson.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
