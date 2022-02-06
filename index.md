@@ -1,4 +1,4 @@
-![Char Headshot-2261v2 small copy](https://user-images.githubusercontent.com/44366610/152694041-47083d1d-cbfc-4927-b575-d4a3834f48f5.jpg=1000x667)
+![Char Headshot-2261v2 small copy](https://user-images.githubusercontent.com/44366610/152694041-47083d1d-cbfc-4927-b575-d4a3834f48f5.jpg =1000x667)
 
 ## Welcome to GitHub Pages
 
