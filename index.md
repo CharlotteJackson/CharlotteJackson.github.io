@@ -7,7 +7,7 @@
 
 [Study: Nearly 1/3 of car crashes in DC go unreported](https://wtop.com/dc/2021/10/study-says-nearly-1-3-of-crashes-involving-pedestrians-and-cyclists-go-unreported-in-dc/) (WTOP)
 
-Coverage of our project in Technical.ly DC [part 1](https://technical.ly/dc/2021/05/07/this-code-for-dc-project-is-updating-the-citys-car-crash-data-for-safer-streets/), [part 2](https://technical.ly/dc/2021/07/09/crashbot-automated-data/), and [part 3](https://technical.ly/dc/2021/08/16/code-dc-volunteers/)
+Coverage in Technical.ly DC [part 1](https://technical.ly/dc/2021/05/07/this-code-for-dc-project-is-updating-the-citys-car-crash-data-for-safer-streets/), [part 2](https://technical.ly/dc/2021/07/09/crashbot-automated-data/), and [part 3](https://technical.ly/dc/2021/08/16/code-dc-volunteers/)
 
 
 ## Publications
