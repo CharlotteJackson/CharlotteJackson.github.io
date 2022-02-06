@@ -1,3 +1,4 @@
+![Char Headshot-2261v2 small](https://user-images.githubusercontent.com/44366610/152693683-0eb41504-fd57-4568-91ef-ed9880cc074e.jpg)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/CharlotteJackson/CharlotteJackson.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
