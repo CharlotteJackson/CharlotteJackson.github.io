@@ -1,6 +1,8 @@
 <img src="https://user-images.githubusercontent.com/44366610/152694796-6bf6b256-a87d-4acc-8fcc-b0fd4f054136.jpg" width="500">
 
 ## Media
+[DC traffic deaths at 14-year high, with low income areas hardest hit](https://www.washingtonpost.com/transportation/2022/02/23/dc-traffic-deaths-highest-record/) (Washington Post)
+
 [The Car Crashes That Go Undetected](https://www.bloomberg.com/news/articles/2021-07-15/how-many-traffic-crashes-are-going-unreported) (Bloomberg Citylab)
 
 [Report: One-third of pedestrian accidents in DC go unreported](https://www.telemundowashingtondc.com/noticias/local/reporte-un-tercio-de-accidentes-peatonales-en-dc-no-quedan-reportados/2087103/) (Telemundo)
