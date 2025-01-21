@@ -2,9 +2,12 @@
 
 ## Projects
 
-[Data Driven Streets](https://www.datadrivenstreets.org/about-us)
+[Data Driven Streets](https://www.datadrivenstreets.org/our-story/)
 
 ## Media
+
+[Darden Professor Awarded $470,000 Federal Grant to Improve DC Traffic Safety Through Data Analytics](https://news.darden.virginia.edu/2025/01/21/darden-professor-awarded-470000-federal-grant-to-improve-dc-traffic-safety-through-data-analytics/)(Darden Report)
+
 [DC traffic deaths at 14-year high, with low income areas hardest hit](https://www.washingtonpost.com/transportation/2022/02/23/dc-traffic-deaths-highest-record/) (Washington Post)
 
 [The Car Crashes That Go Undetected](https://www.bloomberg.com/news/articles/2021-07-15/how-many-traffic-crashes-are-going-unreported) (Bloomberg Citylab)
