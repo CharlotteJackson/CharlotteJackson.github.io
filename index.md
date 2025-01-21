@@ -6,7 +6,7 @@
 
 ## Media
 
-[Darden Professor Awarded $470,000 Federal Grant to Improve DC Traffic Safety Through Data Analytics](https://news.darden.virginia.edu/2025/01/21/darden-professor-awarded-470000-federal-grant-to-improve-dc-traffic-safety-through-data-analytics/)(Darden Report)
+[Darden Professor Awarded $470,000 Federal Grant to Improve DC Traffic Safety Through Data Analytics](https://news.darden.virginia.edu/2025/01/21/darden-professor-awarded-470000-federal-grant-to-improve-dc-traffic-safety-through-data-analytics/) (Darden Report)
 
 [DC traffic deaths at 14-year high, with low income areas hardest hit](https://www.washingtonpost.com/transportation/2022/02/23/dc-traffic-deaths-highest-record/) (Washington Post)
 
